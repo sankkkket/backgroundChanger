@@ -18,7 +18,7 @@ function App() {
         <button onClick={()=> setColor("orange")} className='color-btnn' type="button" class="btn btn-outline-primary">Orange</button>
         <button onClick={()=> setColor("olive")} className='color-btnn' type="button" class="btn btn-outline-primary">Olive</button>
         <button onClick={()=> setColor("grey")} className='color-btnn' type="button" class="btn btn-outline-primary">Grey</button>
-        <button onClick={()=> setColor("black")} className='color-btnn' type="button" class="btn btn-outline-primary">Black</button>
+        <button onClick={()=> setColor("yellow")} className='color-btnn' type="button" class="btn btn-outline-primary">Yellow</button>
       </div>
     </div>  
     </>
